@@ -4,6 +4,7 @@
 - 👨‍💻 Tenho experiência com HTML, CSS e JS
 - 📘 Cursando o penúltimo ano em Desenvolvimento de Sistemas pela Escola Técnica Estadual de São Paulo;
 ##
+
 <div>
   <a href="https://github.com/EricDaCruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricDaCruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
