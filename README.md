@@ -3,10 +3,9 @@
 - 📚 Atualmete Estudando: React.js e Node.js
 - 👨‍💻 Tenho experiência com HTML, CSS e JS
 - 📘 Cursando o penúltimo ano em Desenvolvimento de Sistemas pela Escola Técnica Estadual de São Paulo;
-##
 
 <div>
-  <a href="https://github.com/EricDaCruz">
+  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricDaCruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDaCruz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
