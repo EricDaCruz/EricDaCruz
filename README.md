@@ -1,8 +1,8 @@
 ## Oii!! Eu sou o Eric Rafael Desenvolvedor Full Stack 👋
 
-##### 📚 Atualmete Estudando: React e Node
-##### 👨‍💻 Tenho experiência com HTML, CSS e JS
-##### 📘 Cursando o último ano em Desenvolvimento de Sistemas pela Escola Técnica Estadual de São Paulo;
+#### 📚 Atualmete Estudando: React e Node
+#### 👨‍💻 Tenho experiência com HTML, CSS e JS
+#### 📘 Cursando o último ano em Desenvolvimento de Sistemas pela Escola Técnica Estadual de São Paulo;
 
 <div align="center">
   <a href="https://github.com/EricDaCruz">
@@ -37,7 +37,7 @@
   
   <br />
    <br />
-  
+  <br />
  ```javascript
     let EricDaCruz = {
     code: ["learning"],
