@@ -41,10 +41,10 @@
   
  ```javascript
     let EricDaCruz = {
-    code: ["learning"],
-    askMeAbout: ["CSS", "HTML", "JavaScript"],
-    technologies: {
-        studying: ["Node", "React", "React Native", "Typescript", "Tailwind"]
+      code: ["learning"],
+      askMeAbout: ["CSS", "HTML", "JavaScript"],
+      technologies: {
+        studying: ["Node", "React", "React Native", "Typescript", "MongoDB"]
     },
         
     message: "Never Stop Learning 🚀"
