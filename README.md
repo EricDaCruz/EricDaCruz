@@ -47,7 +47,7 @@
         studying: ["Node", "React", "React Native", "Typescript", "MongoDB"]
     },
         
-    message: "Never Stop Learning 🚀"
+    message: "Sapere aude 🎓"
 };
 
  ```
