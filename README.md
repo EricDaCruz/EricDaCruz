@@ -2,7 +2,7 @@
 
 #### 📚 Atualmete Estudando: React e Node
 #### 👨‍💻 Tenho experiência com HTML, CSS e JS
-#### 📘 Cursando o último ano em Desenvolvimento de Sistemas pela Escola Técnica Estadual de São Paulo;
+#### 🎓 Técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual de Itu;
 
 <div align="center">
   <a href="https://github.com/EricDaCruz">
