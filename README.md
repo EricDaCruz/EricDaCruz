@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=A62DFB&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eric+Da+Cruz;I'm+a+fullstack+developer;Nice+to+meet+you!+:%29))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=A62DFB&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eric+Da+Cruz;I'm+a+fullstack+developer;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
