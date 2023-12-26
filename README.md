@@ -1,29 +1,13 @@
-## Oii!! Eu sou o Eric Rafael Desenvolvedor Full Stack 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=A62DFB&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eric+Da+Cruz;I'm+a+fullstack+developer;Nice+to+meet+you!+:%29))](https://git.io/typing-svg)
 
-#### 📚 Atualmete Estudando: React e Node
-#### 👨‍💻 Tenho experiência com HTML, CSS e JS
-#### 🎓 Técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual de Itu;
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
-<div align="center">
-  <a href="https://github.com/EricDaCruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericdacruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericdacruz&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Eric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eric-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eric-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Eric-yoda" widht="150" height="150" src="https://programadoresdepre.com.br/wp-content/uploads/2020/04/pacote-fullstack-danki-code.gif">
-</div>
-  
-  ##
-  
-  <div> 
+<br/>
+<br/>
+<br/>
+
+<div align="center"> 
+    <div> 
     <a href="https://www.instagram.com/e_cruzx/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
@@ -34,22 +18,32 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
   </div>
-  
-  <br />
-   <br />
-  <br />
-  
- ```javascript
-    let EricDaCruz = {
-      code: ["learning"],
-      askMeAbout: ["CSS", "HTML", "JavaScript"],
-      technologies: {
-        studying: ["Node", "React", "React Native", "Typescript", "MongoDB"]
-    },
-        
-    message: "Sapere aude 🎓"
-};
+</div>
 
- ```
-  
-   ![Snake animation](https://github.com/EricDaCruz/EricDaCruz/blob/output/github-contribution-grid-snake.svg)
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/EricDaCruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericdacruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+
+```javascript
+let EricDaCruz = {
+    code: ["learning"],
+    askMeAbout: ["CSS", "HTML", "JavaScript"],
+    technologies: {
+        studying: ["Node", "React", "React Native", "Typescript", "MongoDB"],
+    },
+
+    message: "Sapere aude 🎓",
+};
+```
+
+![Snake animation](https://github.com/EricDaCruz/EricDaCruz/blob/output/github-contribution-grid-snake.svg)
